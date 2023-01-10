@@ -1,5 +1,6 @@
 # Tubes_AKA
 
-#kodingan menggunakan bahasa pemrograman c++, 
-#untuk algoritma c++ ada pada dalam file bernama Search.cpp pada folder
+kodingan menggunakan bahasa pemrograman c++, 
+untuk algoritma c++ ada pada dalam file bernama Search.cpp pada folder
 
+untuk download codingan klik (code) -> (download zip)
