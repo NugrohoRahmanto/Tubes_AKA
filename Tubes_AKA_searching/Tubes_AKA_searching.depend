@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673350086 source:d:\tubes\aka\tubes_aka_searching\main.cpp
+	"Search.h"
+
+1673280173 d:\tubes\aka\tubes_aka_searching\search.h
+	<iostream>
+
+1673280164 source:d:\tubes\aka\tubes_aka_searching\search.cpp
+	"Search.h"
+
